@@ -1,0 +1,7 @@
+
+npm install -g @vue/cli-init
+vue init webpack todo-vue
+npm run dev
+npm install sass-loader node-sass --save
+
+npm audit fix
